@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0AAF-D2A6
+
+ Directory of C:\Users\Anand2000\Desktop\github
+
+05/02/2022  10:53 AM    <DIR>          .
+05/02/2022  10:53 AM    <DIR>          ..
+05/02/2022  10:53 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  641,177,612,288 bytes free
